@@ -36,5 +36,3 @@ Hosting - Apache Server, XAMPP
 5. The admin **reviews the order** and processes it for delivery.  
 6. The customer **receives the food at their doorstep** at the chosen time.  
 ---
-
-This **README** file is structured for GitHub documentation. Let me know if you need modifications or additional details! 🚀
